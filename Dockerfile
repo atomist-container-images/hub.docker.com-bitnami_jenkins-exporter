@@ -79,18 +79,3 @@ FROM bitnami/jenkins-exporter:0.20171225.0-debian-10-r725
 
 # Tags: 0.20171225.0-debian-10-r724
 FROM bitnami/jenkins-exporter:0.20171225.0-debian-10-r724
-
-# Tags: 0.20171225.0-debian-10-r723
-FROM bitnami/jenkins-exporter:0.20171225.0-debian-10-r723
-
-# Tags: 0.20171225.0-debian-10-r722
-FROM bitnami/jenkins-exporter:0.20171225.0-debian-10-r722
-
-# Tags: 0.20171225.0-debian-10-r721
-FROM bitnami/jenkins-exporter:0.20171225.0-debian-10-r721
-
-# Tags: 0.20171225.0-debian-10-r720
-FROM bitnami/jenkins-exporter:0.20171225.0-debian-10-r720
-
-# Tags: 0.20171225.0-debian-10-r719
-FROM bitnami/jenkins-exporter:0.20171225.0-debian-10-r719
